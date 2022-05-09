@@ -1,0 +1,12 @@
+ID,HomeOwner,MartialStatus,Income,Defaulted
+1,'yes','single',125000,'no'
+2,'no','married',100000,'no'
+3,'no','single',70000,'no'
+4,'yes','married',120000,'no'
+5,'no','divorced',95000,'yes'
+6,'no','single',60000,'no'
+7,'yes','divorced',220000,'no'
+8,'no','single',85000,'yes'
+9,'no','married',75000,'no'
+10,'no','single',90000,'yes'
+
